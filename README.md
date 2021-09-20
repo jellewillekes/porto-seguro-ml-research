@@ -1,0 +1,2 @@
+# ML-Porto-Seguro-s-Safe-Drive-Prediction
+In this project different Machine Learning algorithms are applied to predict the probability that a driver will initiate an auto insurance claim in the next year.  The challenge is designed by Porto Seguro, one of Brazil’s largest auto and homeowner insurance companies.  Inaccuracies in car insurance company’s claim predictions raise the costof insurance for good drivers and reduce the price for bad ones.  A more accurate predictionwill allow them to further tailor their prices.
