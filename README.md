@@ -75,7 +75,7 @@ An attempt was made to combine the models using a linear averaging approach. How
 - **Report.pdf**: Full project report with methodology, findings, and conclusions.
 - **train.csv**: Training dataset.
 - **test.csv**: Test dataset used for model validation.
-- **README.md**: Project documentation (this file).
+
 
 ## 6. Installation and Requirements
 
