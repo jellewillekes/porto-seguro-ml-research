@@ -72,7 +72,7 @@ An attempt was made to combine the models using a linear averaging approach. How
 ## 5. Files in the Repository
 
 - **main.py**: The main Python script containing all functions for data preprocessing, model training, hyperparameter tuning, and evaluation.
-- **ML-Porto_Seguro-Safe-Drive-Prediction.pdf**: Full project report with methodology, findings, and conclusions.
+- **Report.pdf**: Full project report with methodology, findings, and conclusions.
 - **train.csv**: Training dataset.
 - **test.csv**: Test dataset used for model validation.
 - **README.md**: Project documentation (this file).
