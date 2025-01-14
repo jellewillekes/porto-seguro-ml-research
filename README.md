@@ -3,7 +3,7 @@
 This repository contains an analysis and implementation of various machine learning models to predict auto insurance 
 claims using Porto Seguro's "Safe Driver Prediction" dataset. The goal is to develop accurate models to predict the 
 likelihood that a driver will file an insurance claim in the next year, thereby helping to set more accurate 
-premiums. Project was part of the Machine Learning course at Erasmus University, completed with Stein Dijkstra and Liza 
+premiums. The start of this project was part of the Machine Learning course at Erasmus University, completed with Stein Dijkstra and Liza 
 Mints.
 
 ## Project Overview
